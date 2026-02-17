@@ -29,6 +29,7 @@
 - HTML5
 - CSS3
 - JavaScript
+- json
 - GitHub Pages / Cloudflare Pages
 
 ---
